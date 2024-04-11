@@ -2,7 +2,7 @@
 
 *In this lab report we are using the cd, ls and cat commands*
 
-## *''' cd ''' command*
+## ''' cd ''' command
 
 *Ex 1: cd with No Arguments.*
 
@@ -27,7 +27,7 @@ cd /nonexistent/directory
 
 *Explanation: The Working directory remains the same as /nonexistent/directory does not exist. Gives an error*
 
-## *'''ls''' command*
+## '''ls''' command
 
 $ ls
 
@@ -51,7 +51,7 @@ $ Is /nonexistent/directory
 
 *Explanation: The working directory does not change again as it does not exist. Gives an error.*
 
-## *'''cat''' command*
+## '''cat''' command
 
 $ cat
 
