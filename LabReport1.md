@@ -2,7 +2,7 @@
 
 *In this lab report we are using the cd, ls and cat commands*
 
-## *'''cd''' command*
+## *''' cd ''' command*
 
 *Ex 1: cd with No Arguments.*
 
