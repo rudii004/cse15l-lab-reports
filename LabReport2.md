@@ -73,7 +73,7 @@ class ChatServer {
 
 <img width="901" alt="Screenshot 2024-05-08 at 9 49 11 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/7bebdc7a-178d-4907-88e0-d0945711f085">
 
-
+*In this part, we can see we ran the ChatServer and then used /addmessages to get two of the outputs above.*
 
 ## Part 2
 
