@@ -28,11 +28,11 @@ class ChatHandler implements URLHandler {
         if (query != null && !query.isEmpty()) {
             String[] parameters = query.split("&");
             if (parameters.length == 2) {
-                String message = getValue(parameters[0]);
+                String s = getValue(parameters[0]);
                 String user = getValue(parameters[1]);
-                if (message != null && user != null) {
-                    chatHistory.append(user).append(": ").append(message).append("\n");
-                    return "Message added successfully: " + user + ": " + message;
+                if (s != null && user != null) {
+                    chatHistory.append(user).append(": ").append(s).append("\n");
+                    return "Message added successfully: " + user + ": " + s;
                 }
             }
         }
