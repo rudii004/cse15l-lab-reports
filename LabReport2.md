@@ -68,6 +68,11 @@ class ChatServer {
 }
 ~~~
 
+<img width="852" alt="Screenshot 2024-05-08 at 9 50 21 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/14873b69-f932-4f0a-a541-4c25ce8ac7ed">
+
+
+<img width="901" alt="Screenshot 2024-05-08 at 9 49 11 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/7bebdc7a-178d-4907-88e0-d0945711f085">
+
 
 
 ## Part 2
