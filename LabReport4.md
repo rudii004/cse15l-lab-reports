@@ -1,4 +1,4 @@
 # Lab Report 4 - Vim (Week 7)
 
-## *Screenshots*
+## *Screenshots(steps4-9)*
 
