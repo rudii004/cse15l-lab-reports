@@ -8,6 +8,7 @@ I logged into my ieng6 using the ssh command, and the code rsaraf@ieng6.ucsd.edu
 
 ## *Clone forked repository*
 
+I used the SSH URL on my GitHub account to clone the repository's fork. Command used:
 
 ## *Tests ran*
 
