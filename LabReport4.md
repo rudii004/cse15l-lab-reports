@@ -19,4 +19,9 @@ I used the SSH URL on my GitHub account to clone the repository's fork. Command 
 
 ## *Using vim for editing the code*
 
+<img width="605" alt="Screenshot 2024-05-22 at 8 30 36 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/578db624-12c0-434e-bc44-e7447c989845">
+
+<img width="358" alt="Screenshot 2024-05-22 at 8 22 57 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/971ace98-f767-4747-9227-0c9c189aa3a7">
+
+
 
