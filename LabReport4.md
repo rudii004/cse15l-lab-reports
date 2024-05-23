@@ -38,6 +38,6 @@ I used the bash test.sh command to execute the test cases again to make sure all
 
 <img width="575" alt="Screenshot 2024-05-22 at 8 22 47 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/d87699c1-94fd-4a34-818f-7704ef2d25ea">
 
-
+I reinitialized the repository by using the git init command first, then I added the updated file to the repository by using the git add ListExamples.java command and pressing enter. Subsequently, I utilised the git commit -m programme and hit enter to commit the modifications together with a note indicating “Fixed testMerge2”. Finally, I pushed the modifications to the main branch by using the git push origin main command and pressing enter. Hit the following keys: git init git add ListExamples.java commit space on git Enter -m space "Fixed testMerge2" and then git, push, origin and main. 
 
 
