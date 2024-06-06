@@ -6,12 +6,7 @@ In order to create a new array with every element from the original array, I nee
 
 *Screenshot of the Code:*
 
-
-
-
-*Symptoms*:
-
-
+<img width="1440" alt="Screenshot 2024-06-05 at 11 38 21 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/07e10b00-eb5a-4ccb-95b1-9d12eebdc3c5">
 
 
 ## response of the TA:
@@ -25,10 +20,12 @@ Thank you for the suggestions. Upon inspection, I found out that the code was ad
 
 ## The files and the directory structures:
 
+<img width="251" alt="Screenshot 2024-06-05 at 11 47 23 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/dba0de64-59d6-4205-bd84-eb9f329c03c3">
 
 
 ## The Correct Code:
 
+<img width="1440" alt="Screenshot 2024-06-05 at 11 46 21 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/f9dc5725-6f55-4e1a-bd4b-88a877c5d31b">
 
 
 ## Description of the edit code :
@@ -38,4 +35,4 @@ I fixed the code by removing the +1 and changing the part where 1 was added to t
 
 ## Part 2( Reflection)
 
-In the latter portion of this quarter, I became well-versed in the vim command's editing capabilities. Using this command, I learned how to modify my code in a number of ways and what keys I might press to get different results.
+I spent the latter part of this quarter learning how to use the editing features of the vim command. With the help of this command, I was able to change my code in a variety of ways and discovered which keys would produce different outcomes.
