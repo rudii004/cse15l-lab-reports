@@ -25,8 +25,8 @@ I compiled and ran the tests with javac and java respectively. The tests failed 
 
 <img width="358" alt="Screenshot 2024-05-22 at 8 22 57 PM" src="https://github.com/rudii004/cse15l-lab-reports/assets/165842692/971ace98-f767-4747-9227-0c9c189aa3a7">
 
-As we can see the, the first image is the original file of ListExamples.java, and the second image is the modified version which I did using vim. 
-Keys pressed: "down" for 43 times to get to the line index1+=1 and then "right" about 12 times to get to the 1, so that I can change it to 2. Passed keys: esc wq enter I enter command mode by using the esc key, which is followed by the wq comand, which writes and ends vim, and the enter key, which essentially saves the charges made to the file and exits. 
+*I pushed the < down > key 43 times to reach the error line, then the < right > key about 12 times to reach index 1's number 1, which I subsequently changed to 2. 
+Keys pressed: < esc > wq < enter > I use the < esc > key to enter command mode, then the wq key to write and quit vim, then the < enter > key to basically save the file's modifications and exit.*
 
 ## *Re-running tests*
 
